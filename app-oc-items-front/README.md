@@ -263,3 +263,5 @@ app-oc-items-front   app-oc-items-front-app-oc-items-front.apps.blueday.os.fyre.
 <p align="center">
   <img src="doc/img/13.png">
 </p>
+
+###### Developed by [@_jorgeiglesias](http://jorgeiglesiasf.blogspot.com.es/).

@@ -254,3 +254,5 @@ app-oc-items-api   app-oc-items-api-app-oc-items-api.apps.blueday.os.fyre.ibm.co
 curl --request POST http://app-oc-items-api-app-oc-items-api.apps.blueday.os.fyre.ibm.com/v1/data 
 {"message":[{"type":"Disk","size":"P1010"},{"type":"Keyboard","size":"P2020"},{"type":"Screen","size":"P2030"},{"type":"Mouse","size":"P2040"}]}
 ```
+
+###### Developed by [@_jorgeiglesias](http://jorgeiglesiasf.blogspot.com.es/).

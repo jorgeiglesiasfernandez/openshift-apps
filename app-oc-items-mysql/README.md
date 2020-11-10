@@ -33,7 +33,6 @@ This container has a MySQL database with a sample table. The container has a per
 - [NFS][] server.
 - Cluster [OCP][] installed.
 - [MySQL client][] installed. Needed to load data (`hardware.sql`).
-- [NodeJS][] installed. Needed to execute test (`test-db.js`).
 
 ## Persistent storage using NFS
 
